@@ -1,0 +1,4 @@
+the line one stays here
+then line two
+followed by line three
+I appended line four

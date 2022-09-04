@@ -1,0 +1,3 @@
+hello, i just started learning
+how to create a txt file and write
+into it with jupyter notebook
